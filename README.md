@@ -1,18 +1,18 @@
 This program manages bank accounts using Kotlin.
 
-Features
+Features:
 Allows depositing and withdrawing money.
 Displays account balances and transaction history.
-Usage
+
+Usage:
 Creating Accounts
-
 Create accounts for users with initial balances.
-Transactions
 
+Transactions
 Deposit money into accounts.
 Withdraw money, ensuring sufficient funds.
-Account Information
 
+Account Information
 View current balance.
 See transaction history.
 Total Balance
