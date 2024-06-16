@@ -25,6 +25,6 @@ Create accounts for users with initial balances.
 
 Calculate and display the combined balance of all accounts.
 
-## License
 
-This project is licensed under the MIT License.
+
+
