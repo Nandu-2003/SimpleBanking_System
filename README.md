@@ -1,5 +1,5 @@
 # Bank Account Program
-##A basic banking system in Kotlin to manage deposits and withdrawals.
+## A basic banking system in Kotlin to manage deposits and withdrawals.
 ## Features
 
 - Allows depositing and withdrawing money.
